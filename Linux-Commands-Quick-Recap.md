@@ -1,6 +1,5 @@
-# Bash-Scripting-Basic-to-Advanced
 
-## Linux Cheat Sheet
+# Linux Cheat Sheet
 
 ##File Commands:
  * ls – directory listing
