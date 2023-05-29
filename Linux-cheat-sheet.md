@@ -59,7 +59,7 @@
    ```bash
    $ finger
    Login     Name       Tty      Idle  Login Time   Office     Office Phone
-   sj        sj        *:0             Aug 28 01:27 (:0)
+   sj        sj        *:0             May 29 01:27 (:0)
    ```
 
    This may not be available by default in many linux machines. In this case, you need to install it manually.
@@ -108,7 +108,7 @@
     sj       :0           :0               Thu May 14 21:04 - crash (75+14:41)
     reboot   system boot  5.4.0-29-generic Thu May 14 21:03   still running
 
-    wtmp begins Thu May 14 21:03:56 2020
+    wtmp begins Thu May 28 21:03:56 2023
     ```
 
 10. **lastlog:** The `lastlog` command is used to find the details of a recent login of all users or of a given user.
@@ -151,9 +151,9 @@
 
      //Listing files & directories with time in a rever order
      $ ls -ltr
-     drwxr-xr-x 2 sj sj 4096 May 14  2020 Videos
-     drwxr-xr-x 2 sj sj 4096 May 14  2020 Templates
-     drwxr-xr-x 2 sj sj 4096 May 14  2020 Public
+     drwxr-xr-x 2 sj sj 4096 May 29  2023 Videos
+     drwxr-xr-x 2 sj sj 4096 May 29  2023 Templates
+     drwxr-xr-x 2 sj sj 4096 May 29  2023 Public
 
      //Home directory
      $ ls ~
@@ -269,7 +269,7 @@
    1. **Create a file:** Used to create a file with specific name, content and press exit using `CTRL + D`
        ```bash
        cat > file_name1.txt
-       Hello, How are you?
+       Hello Pavankumar, How are you?
        ```
    2. **View file contents:** You can view contents of a single or more files by mentioning the filenames.
 
