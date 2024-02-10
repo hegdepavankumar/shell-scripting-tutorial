@@ -5,8 +5,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/shell-scripting-zero-to-hero?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/shell-scripting-zero-to-hero.svg?cache=remove)
 
-Shell Scripting
-![zero-to-hero](https://github.com/hegdepavankumar/A-Shell-Script/assets/85627085/2635ed51-40ed-44b5-b783-837511ace2e3)
 
 Welcome to the "Shell Scripting Zero to Hero" repository, your comprehensive guide to mastering Bash shell scripting for real-world corporate scenarios. Whether you're a beginner looking to automate tedious tasks or an experienced developer aiming to enhance your scripting skills, this tutorial takes you from the basics to hero-level scripting.
 
