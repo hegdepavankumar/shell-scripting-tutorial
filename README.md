@@ -29,7 +29,7 @@ Welcome to the "Shell Scripting Zero to Hero" repository, your comprehensive gui
 This repository is designed to take you from a novice to a scripting hero, providing the tools and knowledge needed to excel in real-world scripting tasks.
 
 Ready to become a scripting hero? Clone the repository, follow the tutorials, and start scripting your way to success!
-### Connect with me : [Join Telegram](https://t.me/resourcehub1)
+## Connect with me : [Join Telegram](https://t.me/resourcehub1)
 
 
 <br>
