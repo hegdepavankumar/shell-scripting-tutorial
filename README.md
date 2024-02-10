@@ -1,8 +1,8 @@
 # Bash Scripting Tutorial – Linux Shell Script for Beginners
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/shell-scripting-zero-to-hero?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/shell-scripting-zero-to-hero?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/shell-scripting-zero-to-hero?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Bash-Scripting-Tutorial-Linux-Shell-Script-for-Beginners?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Bash-Scripting-Tutorial-Linux-Shell-Script-for-Beginners?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Bash-Scripting-Tutorial-Linux-Shell-Script-for-Beginners?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/shell-scripting-zero-to-hero.svg?cache=remove)
 
 
