@@ -1,4 +1,4 @@
-# shell-scripting-zero-to-hero
+# Bash Scripting Tutorial – Linux Shell Script for Beginners
 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/shell-scripting-zero-to-hero?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/shell-scripting-zero-to-hero?style=flat)
