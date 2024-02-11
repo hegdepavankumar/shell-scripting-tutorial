@@ -6,7 +6,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/shell-scripting-zero-to-hero.svg?cache=remove)
 
 
-Welcome to the "Shell Scripting Zero to Hero" repository, your comprehensive guide to mastering Bash shell scripting for real-world corporate scenarios. Whether you're a beginner looking to automate tedious tasks or an experienced developer aiming to enhance your scripting skills, this tutorial takes you from the basics to hero-level scripting.
+Welcome to the "Shell Scripting Zero to Hero" repository, your comprehensive guide to mastering Bash shell scripting for real-world corporate scenarios. Whether you're a beginner looking to automate tedious tasks or an experienced Network/Software Engineer aiming to enhance your scripting skills, this tutorial takes you from the basics to hero-level scripting.
 
 🚀 **What's Inside:**
 - **Foundational Concepts:** Learn the fundamentals of Bash, including basic commands, variables, and data types.
