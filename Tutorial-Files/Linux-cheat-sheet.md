@@ -31,7 +31,7 @@
 
    ```bash
    $ who
-   sudheer :0 2024-01-01 01:21 (:0)
+   pavankumar :0 2024-01-01 01:21 (:0)
    ```
 
 2. **whoami:** It display the system’s username
