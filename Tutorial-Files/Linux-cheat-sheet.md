@@ -51,15 +51,15 @@
 
    ```bash
    $ group
-   sj: sj, adm, cdrom, sudo, dip, plugdev, lpadmin, lxd, sambashare
+   pavankumar: pavankumar, adm, cdrom, sudo, dip, plugdev, lpadmin, lxd, sambashare
    ```
 
 5. **finger:**  Used to check the information of any currently logged in users. i.e, It displays users login time, tty (name), idle time, home directory, shell name etc.
 
    ```bash
    $ finger
-   Login     Name       Tty      Idle  Login Time   Office     Office Phone
-   sj        sj        *:0             Mar 29 01:27 (:0)
+   Login               Name            Tty         Idle  Login Time   Office     Office Phone
+   pavankumar        pavankumar        *:0             Mar 29 01:27 (:0)
    ```
 
    This may not be available by default in many linux machines. In this case, you need to install it manually.
@@ -71,7 +71,7 @@
 
    ```bash
    $ users
-   sj
+   pavankumar
    ```
 
 7. **grep:** It  is a powerful pattern searching tool to find information about a specific user from the system accounts file: /etc/passwd.
@@ -89,8 +89,8 @@
     Example:
     w
      18:45:04 up  2:09,  1 user,  load average: 0.09, 0.07, 0.02
-    USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
-    sj       :0       :0               01:27   ?xdm?   1:14   0.01s /usr/lib/gdm3/g
+    USER            TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+    pavankumar       :0       :0               01:27   ?xdm?   1:14   0.01s /usr/lib/gdm3/g
     ```
 
 9. **last or lastb:** Displays a list of last logged in users on the system. You can pass user names to display their login and hostname details.
@@ -101,11 +101,11 @@
     Example:
 
     last
-    sj       :0           :0               Fri Aug 28 01:27    gone - no logout
+    pavankumar       :0           :0               Fri Aug 28 01:27    gone - no logout
     reboot   system boot  5.4.0-29-generic Fri Aug 28 01:27   still running
-    sj       :0           :0               Wed Jul 29 11:46 - crash (29+13:40)
+    pavankumar       :0           :0               Wed Jul 29 11:46 - crash (29+13:40)
     reboot   system boot  5.4.0-29-generic Wed Jul 29 11:45   still running
-    sj       :0           :0               Thu May 14 21:04 - crash (75+14:41)
+    pavankumar       :0           :0               Thu May 14 21:04 - crash (75+14:41)
     reboot   system boot  5.4.0-29-generic Thu May 14 21:03   still running
 
     wtmp begins Sun Jan 28 21:03:56 2024
