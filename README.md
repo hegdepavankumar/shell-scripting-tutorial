@@ -1,4 +1,4 @@
-# Basic Shell Scripting - Tutorial For Beginners-Advance
+# Basic Shell Scripting - Tutorial For Beginners to Advance
 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/bash-scripting-tutorial?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/bash-scripting-tutorial?style=flat)
