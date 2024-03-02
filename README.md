@@ -1,10 +1,13 @@
-# Basic Shell Scripting - Tutorial For Beginners to Advance
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/bash-scripting-tutorial?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/bash-scripting-tutorial?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/bash-scripting-tutorial?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/shell-scripting-tutorial?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/shell-scripting-tutorial?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/shell-scripting-tutorial?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/shell-scripting-zero-to-hero.svg?cache=remove)
 
+
+[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
+
+# Shell Scripting: A Complete Guide
 
 Welcome to the "Shell Scripting Zero to Hero" repository, your comprehensive guide to mastering Bash shell scripting for real-world corporate scenarios. Whether you're a beginner looking to automate tedious tasks or an experienced Network/Software Engineer aiming to enhance your scripting skills, this tutorial takes you from the basics to hero-level scripting.
 
