@@ -5,7 +5,18 @@
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/shell-scripting-zero-to-hero.svg?cache=remove)
 
 
-[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
+
+[![telegram (1)](https://github.com/hegdepavankumar/shell-scripting-tutorial/assets/85627085/ab437638-444e-4887-bab1-7ed21413fa68)](https://t.me/resourcehub1)
+
+<br>
+
+# SUPPORT ME -- 🚩💲🙏
+
+### 🚀 Love my Shell Scripting Tutorial repo? It's your go-to resource for mastering shell scripting for network/security engineer roles and automating daily tasks. I've invested valuable time to create a comprehensive guide. If you find it helpful, consider showing your support with a coffee ☕️ or your best wishes. Your appreciation keeps this resource thriving!
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee | Support me&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+<br>
 
 # Shell Scripting: A Complete Guide
 
