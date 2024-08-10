@@ -14,7 +14,9 @@
 
 ### 🚀 Love my Shell Scripting Tutorial repo? It's your go-to resource for mastering shell scripting for network/security engineer roles and automating daily tasks. I've invested valuable time to create a comprehensive guide. If you find it helpful, consider showing your support with a coffee ☕️ or your best wishes. Your appreciation keeps this resource thriving!
 
-<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
 
 # Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
 
